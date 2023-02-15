@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @Marizzleco
-- 👀 I’m interested in learning more about coding!
+- 👀 I’m interested in learning more about data engineering, back end technologies, ML and AI!
+- 👩🏼‍💻 Northcoders Data Engineering Graduate 🎓
 - 🌱 I’m currently learning via Codecademy. I'm following the Full Stack Developer path.
 
 
